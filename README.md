@@ -1,6 +1,10 @@
 # Quickky_Foods
 
 **Title: Quickky Foods Restaurant Management Project**
+
+![Screenshot_20230903-123834_Video Player](https://github.com/Pritam-Akatsuki/Quickky_Foods/assets/136802288/d249108c-247e-42d2-a29b-d05b05ffd3c1)
+
+https://drive.google.com/file/d/1STc5s50FrRo6ktR8xdi9az03pK-RXs1K/view?usp=sharing
 ---
 **Description:**
 
